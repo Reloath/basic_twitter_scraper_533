@@ -1,0 +1,4 @@
+This is an example scraper of how to get tweets within a special area and time frame. 
+
+Made as a response to this Stackoverflow Question: 
+http://stackoverflow.com/questions/16472463/scraperwiki-twitter-query/16473317#16473317
